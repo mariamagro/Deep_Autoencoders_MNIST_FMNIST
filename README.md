@@ -5,9 +5,9 @@
 This repository contains the code and results for Project 1 in our Data Science and Engineering course, focusing on the implementation and evaluation of deep autoencoders using the MNIST and FMNIST datasets. The primary objectives are to explore different autoencoder architectures, regularization techniques, and their impacts on performance, including image denoising capabilities.
 
 ## Authors
-- Marina Gómez Rey (100472836) - [GitHub Profile](https://github.com/MarinaGRey)
-- Ángela Durán Pinto (100472766)
-- María Ángeles Magro Garrote (100472867)
+- Marina Gómez Rey - [GitHub Profile](https://github.com/MarinaGRey)
+- Ángela Durán Pinto 
+- María Ángeles Magro Garrote
 
 ## Project Description
 
